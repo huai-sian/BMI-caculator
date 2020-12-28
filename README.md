@@ -1,2 +1,2 @@
-# BMI-caculator
-Hex school practice work
+# Demo file
+
